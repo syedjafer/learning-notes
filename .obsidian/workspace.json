@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "b9991502142b88c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "145583ee22b890e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4155cc9d71cf5ec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Communications/Request Response Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe64033830ce21cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d7883059a2dd2c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8c6c25ef1fed57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1dcf6ab1cc59c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6da4d707218bd9da",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "77a1b322365f41f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9149541d4a97e3a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "882e7926bd9d72d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend Communications/Request Response Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41249d9b7524db57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backend Communications/Request Response Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58e01b57e90ef79b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6407d33d407978e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backend Communications/Request Response Model.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4155cc9d71cf5ec9",
+  "lastOpenFiles": [
+    "Backend Communications/Request Response Model.md",
+    "learnpythonwithus/Set.md",
+    "learnpythonwithus/mail content.md",
+    "learnpythonwithus/Lists.md",
+    "learnpythonwithus/Data Structures.md",
+    "learnpythonwithus/images/organised_clothes.jpg"
+  ]
+}
