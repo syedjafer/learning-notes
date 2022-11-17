@@ -28,6 +28,15 @@ set1 = {"abc", 34, True, 40, "male", ['a', 'b', 'c']}
 print(set1)
 ```
 
+#### Indexing
+
+```python
+fruits = {"apple", "lemon", "pineapple"}
+print(fruits[0])
+```
+
+It will throw error. 
+
 #### Type 
 
 From Python's perspective, sets are defined as objects with the data type 'set':
@@ -152,9 +161,9 @@ Union of two sets will return all the items present in both sets (all items will
 `union` functionality can also be done using the `| ` operator. 
 
 ```python
-fruits = {"apple", "banana", "orange"}
-fav_fruits = {"lemon", "jackfruit", "strawberry"}
-response = fruits.union(fav_fruits)
+set_a = {"apple", "banana", "orange"}
+set_b = {"lemon", "jackfruit", "strawberry"}
+response = set_a.union(set_b)
 print(response)
 ```
 
