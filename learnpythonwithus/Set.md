@@ -9,7 +9,7 @@ We need to use the set() constructor or {} (if we are having one or more numbers
 
 ```python
 fruits = {"apple", "banana", "cherry"}  
-print(len(thisset))
+print(len(fruits))
 ```
 
 
@@ -20,6 +20,11 @@ It will be supporting different data types in a same set.
 
 ```python
 set1 = {"abc", 34, True, 40, "male"}
+print(set1)
+```
+
+```python
+set1 = {"abc", 34, True, 40, "male", ['a', 'b', 'c']}
 print(set1)
 ```
 
@@ -50,6 +55,28 @@ We can check if the value present in the set using '**in**'
 ```python
 fruits = {"apple", "banana", "cherry"}
 print("apple" in fruits)
+```
+
+### Adding Values
+
+#### add()
+The `add()` method adds a given element to a set. If the element is already present, it doesn't add any element.
+
+```python
+fruits = {"apple", "banana", "cherry"}
+fruits.add("apple")
+print(fruits)
+```
+
+#### update()
+
+set adds elements from a set (passed as an argument) to the set.
+
+```python
+fruits = {"apple", "banana", "cherry"}
+fav_fruits = {"pineapple", "lemon", "strawberry"}
+fruits.update(fav_fruits)
+print(fruits)
 ```
 
 ### Removing Items
