@@ -1,6 +1,8 @@
 fruits = {"apple", "papaya", "banana", "orange"}
-
-
-# For
-
-# in not in
+print("apple" in fruits)
+print("orange" not in fruits)
+#
+# # in not in
+#
+# print("apple" in fruits)
+# print("orange" not in fruits)
