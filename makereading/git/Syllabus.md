@@ -1,0 +1,33 @@
+
+Why git
+Creation of git
+Git Staging areas ()
+
+
+Functional 
+
+1. git init
+2. git add
+3. git commit (amend, -m, -a)
+4. git status
+5. git log (-p, --stat, --graph, --oneline)
+6. git reset
+7. git merge
+8. git rebase
+9. git checkout (-b)
+10. git pull
+11. git push
+12. git diff
+
+
+
+Less used. 
+
+1. git config
+2. git mv 
+3. git revert
+4. git branch
+5. git pull
+6. git remote update
+7. git review
+8. git tag

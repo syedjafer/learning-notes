@@ -1,0 +1,69 @@
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card text-bg-light mb-3" style="max-width: 18rem;" >
+      <div class="card-body">
+       
+        <h5 class="card-header"><b>Learn Python With Us</b> &nbsp;<span class="badge badge-success free-course"  >Free</span></h5>
+        <p class="card-text">Python is a widely-used, interpreted, object-oriented, and high-level programming language with dynamic semantics, used for general-purpose programming. </p>
+        <a href="https://makereading.com/series/python" class="btn btn-primary course-link">Learn</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="card text-bg-light mb-3" style="max-width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-header"><b>Data Structures & Algorithms</b> &nbsp;<span class="badge badge-success free-course"  >Free</span></h5>
+        <p class="card-text">Master the essential algorithms and data structures for software development and Interview preparations </p>
+        <a href="https://makereading.com/series/algorithms" class="btn btn-primary course-link">Learn</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card text-bg-light mb-3" style="max-width: 18rem;" >
+      <div class="card-body">
+       
+        <h5 class="card-header"><b>Learn GIT</b> &nbsp;<span class="badge badge-success free-course"  >Free</span></h5>
+        <p class="card-text">Git is an open source version control system used by programmers to manage their code. Learn about its features and benefits in this tutorial.
+</p>
+        <a href="https://makereading.com/series/git" class="btn btn-primary course-link">Learn Git</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="card text-bg-light mb-3" style="max-width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-header"><b>Hyper Text Transfer Protocol</b> &nbsp;<span class="badge badge-success free-course"  >Free</span></h5>
+        <p class="card-text">HTTP Tutorial, The Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems. </p>
+        <a href="https://makereading.com/series/http" class="btn btn-primary course-link">Learn HTTP</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card text-bg-light mb-3" style="max-width: 18rem;" >
+      <div class="card-body">
+       
+        <h5 class="card-header"><b>Learn System Design</b> &nbsp;<span class="badge badge-success free-course"  >Free</span></h5>
+        <p class="card-text">System Design is the process of designing the architecture, components, and interfaces for a system so that it meets the end-user requirements.</p>
+        <a href="https://makereading.com/series/systemdesign" class="btn btn-primary course-link">Learn System Design</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="card text-bg-light mb-3" style="max-width: 18rem;">
+      <div class="card-body">
+        <h5 class="card-header"><b>Learn Communication Patterns</b> &nbsp;<span class="badge badge-success free-course"  >Free</span></h5>
+        <p class="card-text">Let's learn about various communication design patterns and unveil the screen of internet communications</p>
+        <a href="https://makereading.com/series/communication-patterns" class="btn btn-primary course-link">Learn </a>
+      </div>
+    </div>
+  </div>
+</div>

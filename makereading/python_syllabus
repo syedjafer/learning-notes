@@ -1,0 +1,95 @@
+Syllabus - Core Python
+
+    Introduction of Python
+
+    Installing Python IDES – Python IDLE and Anaconda
+
+    Writing Your First Python Program
+
+    Data-types in Python
+
+    Variables in Python – Declaration and Use
+
+    Typecasting in Python
+
+    Operators in Python – Assignment, Logical, Arithmetic etc.
+
+    Taking User Input (Console)
+
+    Conditional Statements – If else and Nested If else and elif
+
+    Python Collections (Arrays) – List, Tuple, Sets and Dictionary
+
+    Loops in Python – For Loop, While Loop & Nested Loops
+
+    String Manipulation – Basic Operations, Slicing & Functions and Methods
+
+    User Defined Functions – Defining, Calling, Types of Functions, Arguments
+
+    Lambda Function
+
+    Importing Modules – Math Module 
+    
+    
+    
+    
+    
+    Syllabus - Object Oriented Programming in Python
+
+    Basics of Object Oriented Programming
+
+    Creating Class and Object
+
+    Constructors in Python – Parameterized and Non-parameterized
+
+    Inheritance in Python
+
+    In built class methods and attributes
+
+    Multi-Level and Multiple Inheritance
+
+    Method Overriding and Data Abstraction
+
+    Encapsulation and Polymorphism
+    
+    
+    
+    
+    
+    
+    
+    
+    dvanced Data Types in Python
+Data Types: tuples
+Dictionaries
+Reading and Writing txt and csv files
+Writing Iterative Code and Algorithms
+Indefinite loops: while loops
+Runtime complexity
+Searching and sorting algorithms
+Custom functions in Python
+Args and Kwargs
+Importing files
+
+
+
+
+
+1. Printing
+2. String Manupulation
+3. input 
+4. variables
+5. variable naming
+6. primitive data types
+7. type error, type checking, type conversion
+8. 
+
+
+
+
+
+
+
+
+
+

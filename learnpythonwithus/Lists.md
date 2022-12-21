@@ -237,3 +237,13 @@ print(copied_states)
 
 or list(states)
 
+-   [Exercise 1: Reverse a list in Python](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-1-reverse-a-list-in-python)
+-   [Exercise 2: Concatenate two lists index-wise](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-2-concatenate-two-lists-index-wise)
+-   [Exercise 3: Turn every item of a list into its square](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-3-turn-every-item-of-a-list-into-its-square)
+-   [Exercise 4: Concatenate two lists in the following order](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-4-concatenate-two-lists-in-the-following-order)
+-   [Exercise 5: Iterate both lists simultaneously](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-5-iterate-both-lists-simultaneously)
+-   [Exercise 6: Remove empty strings from the list of strings](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-6-remove-empty-strings-from-the-list-of-strings)
+-   [Exercise 7: Add new item to list after a specified item](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-7-add-new-item-to-list-after-a-specified-item)
+-   [Exercise 8: Extend nested list by adding the sublist](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-8-extend-nested-list-by-adding-the-sublist)
+-   [Exercise 9: Replace list’s item with new value if found](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-9-replace-list-s-item-with-new-value-if-found)
+-   [Exercise 10: Remove all occurrences of a specific item from a list.](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-10-remove-all-occurrences-of-a-specific-item-from-a-list)

@@ -3,11 +3,11 @@
 
 # List[start:end:step]
 
-# fruits = ['apple', 'papaya', 'banana', 'orange', 'pear', 'lemon']
-        #    0        1         2          3       4        5
-# print(id(fruits))
-# fruits[2] = 'd'
-# print(  id(fruits) , id(fruits[1:4]), fruits[1:4])
+fruits = ['apple', 'papaya', 'banana', 'orange', 'pear', 'lemon']
+    #       0        1         2          3       4        5
+print(id(fruits))
+fruits[2] = 'd'
+print(  id(fruits) , id(fruits[1:4]), fruits[1:4])
 
 # print(fruits[:])
 #

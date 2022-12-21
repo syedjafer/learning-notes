@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "145583ee22b890e6",
+        "id": "47f2b7cc6cdd674a",
         "type": "tabs",
         "children": [
           {
-            "id": "4155cc9d71cf5ec9",
+            "id": "7456c44a7e14baab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnpythonwithus/Set.md",
+                "file": "makereading/git/Git Tag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "069f8e95a88517cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "makereading/git/Syllabus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 250.5
   },
   "right": {
     "id": "77a1b322365f41f5",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learnpythonwithus/Set.md",
+                "file": "makereading/git/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learnpythonwithus/Set.md",
+                "file": "makereading/git/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learnpythonwithus/Set.md"
+                "file": "makereading/git/Syllabus.md"
               }
             }
           }
@@ -136,16 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4155cc9d71cf5ec9",
+  "active": "069f8e95a88517cb",
   "lastOpenFiles": [
-    "learnpythonwithus/mail content.md",
-    "learnpythonwithus/Set.md",
-    "Backend Communications/Communication Design Pattern/Request Response Model.md",
-    "Backend Communications/How the Web Works ?.md",
-    "Backend Communications/Untitled/Untitled.md",
-    "Backend Communications/diagrams/request-response.drawio.png",
+    "makereading/git/Git Tag.md",
+    "learnpythonwithus/code review.md",
+    "Planner.md",
+    "learnpythonwithus/Tuples.md",
     "learnpythonwithus/Lists.md",
-    "learnpythonwithus/Data Structures.md",
-    "learnpythonwithus/images/organised_clothes.jpg"
+    "KanchiLug/Weekly Discussion.md",
+    "learnpythonwithus/Set.md",
+    "learnpythonwithus/mail content.md",
+    "Backend Communications/Communication Design Pattern/Request Response Model.md",
+    "Backend Communications/How the Web Works ?.md"
   ]
 }
