@@ -12,6 +12,7 @@ def execute_times(num):
     def decorator_repeat(func):
         def inner(*args, **kwargs):
             for _ in range(num):
+                print(func.__name__)
                 func(*args, **kwargs)
         return inner
     return decorator_repeat
